@@ -1,0 +1,1 @@
+CREATE TABLE course(courseId VARCHAR(11) NOT NULL, courseName VARCHAR(100) NOT NULL, courseAuthor VARCHAR(100) NOT NULL, courseAuthorMail VARCHAR(100) NOT NULL, courseImageUrl VARCHAR(450) NOT NULL, PRIMARY KEY (courseId) )
